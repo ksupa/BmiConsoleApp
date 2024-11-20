@@ -1,0 +1,15 @@
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\bin\Debug\net8.0\BmiConsoleApp.exe
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\bin\Debug\net8.0\BmiConsoleApp.deps.json
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\bin\Debug\net8.0\BmiConsoleApp.runtimeconfig.json
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\bin\Debug\net8.0\BmiConsoleApp.dll
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\bin\Debug\net8.0\BmiConsoleApp.pdb
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.sourcelink.json
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.dll
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\refint\BmiConsoleApp.dll
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.pdb
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\BmiConsoleApp.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\BmiConsoleApp\obj\Debug\net8.0\ref\BmiConsoleApp.dll

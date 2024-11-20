@@ -1,0 +1,15 @@
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\bin\Debug\net8.0\Assignment-04.exe
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\bin\Debug\net8.0\Assignment-04.deps.json
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\bin\Debug\net8.0\Assignment-04.runtimeconfig.json
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\bin\Debug\net8.0\Assignment-04.dll
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\bin\Debug\net8.0\Assignment-04.pdb
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.AssemblyInfoInputs.cache
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.AssemblyInfo.cs
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.sourcelink.json
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.dll
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\refint\Assignment-04.dll
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.pdb
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\Assignment-04.genruntimeconfig.cache
+C:\Users\Kevin\OneDrive\Desktop\Portfolio Projects\New folder\Assignment-04\obj\Debug\net8.0\ref\Assignment-04.dll
