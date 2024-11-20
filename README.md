@@ -1,5 +1,5 @@
 # BMI Console App
 
-This program allows users to add, edit, delete, view as well as manage client information such as their name, height, and weight.
+This project creates a BMI Console Application using classes, objects, properties, and methods to illustrate the principles of C#. User information like Name, Height, and Weight are stored in the Client class, which also includes a CalculateBMI() method for handling BMI calculations. 
 
-The program also calculates each clients BMI (Body Mass Index), and saves all the information in a CSV file.
+Basic console input/output, conditional logic for BMI evaluation, and object instantiation for user data management are all elements of the program. The project demonstrates fundamental concepts of object-oriented programming and clean code organization by segregating BMI logic into the Client class.
