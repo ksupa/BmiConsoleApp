@@ -6,14 +6,6 @@ using System.Reflection.Metadata;
 using System.Reflection.PortableExecutable;
 using System.Runtime.ExceptionServices;
 
-/// Kevin Supa
-/// Apr. 24, 2024
-/// <summary>
-///     This program allows users to add, edit, delete, and view clients as well as manage client information like their name, height, and weight.
-///     The program also calculates each clients BMI (Body Mass Index), and saves all the information in a CSV file.
-/// </summary>
-
-
 
 string mainMenuChoice;
 string editClientMenuChoice;
